@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Trang chu</title>
+<title>Tấn Rất Đẹp Trai</title>
 </head>
 <body>
 	<h1>Trang chu</h1>
