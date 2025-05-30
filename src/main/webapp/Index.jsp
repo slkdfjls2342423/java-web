@@ -11,6 +11,7 @@
 	<form action="Sv">
 		<button type="submit" name="action" value="list">Danh sách sinh viên</button><br><br>
 		<button type="submit" name="action" value="addForm">Thêm sinh viên</button><br><br>
+		<button type="submit" name="action" value="addForm">Thêm sinh viên</button><br><br>
 	</form>
 </body>
 </html>
